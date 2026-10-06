@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-# Enterprise-Document-Intelligence-RAG-system
-=======
-# Enterprise Document Intelligence RAG System
-# Enterprise Document Intelligence RAG System
 
->>>>>>> e90262c (Add structural chunking)
+# Enterprise-Document-Intelligence-RAG
 This project is a document-based question answering system using Retrieval-Augmented Generation (RAG).
 
 The project works through the following steps:
@@ -22,8 +17,4 @@ The project works through the following steps:
    The retrieved information is provided to an LLM such as Llama to generate an answer based on the available documents. Citations are used to show the source of the information.
 
 5. **Streamlit Interface**  
-<<<<<<< HEAD
    A Streamlit-based user interface is used to allow users to ask questions and receive answers from the uploaded documents.
-=======
-   A Streamlit-based user interface is used to allow users to ask questions and receive answers from the uploaded documents.
->>>>>>> e90262c (Add structural chunking)
